@@ -4,7 +4,9 @@
 remote_theme: jekyll/minima
 locale: "en-US"
 title: Passing Thoughts
-description: "A little coding each day keeps the bugs at bay. :)"
+subtitle: Hi there!
+name: Helloooo
+description: "A little coding each day keeps the bugs at bay :)"
 author: U9G
 url: https://blog.u9g.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
