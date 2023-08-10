@@ -5,9 +5,9 @@ remote_theme: jekyll/minima
 locale: "en-US"
 title: Passing Thoughts
 description: "A little coding each day keeps the bugs at bay :)"
-author: U9G
+#author: U9G
 url: "https://blog.u9g.dev" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
+#baseurl: "" # the subpath of your site, e.g. "/blog"
 
 social-network-links:
   email: "blog@u9g.dev"
@@ -15,13 +15,6 @@ social-network-links:
   github: u9g
 
 post_search: true
-
-comments:
-  utterances:
-    repo: u9g/u9g.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
-    theme: github-dark # Utterances theme
-    issue-term: "pathname"
-    #label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 navbar-links:
   Home: "https://blog.u9g.dev"
