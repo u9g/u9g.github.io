@@ -16,11 +16,12 @@ social-network-links:
 
 post_search: true
 
-utterances:
-  repo: u9g/u9g.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  theme: github-dark # Utterances theme
-  issue-term: "pathname"
-  #label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+comments:
+  utterances:
+    repo: u9g/u9g.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+    theme: github-dark # Utterances theme
+    issue-term: "pathname"
+    #label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 navbar-links:
   Home: "https://blog.u9g.dev"
