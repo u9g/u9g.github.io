@@ -16,3 +16,6 @@ utterances:
   issue-term: title   # Mapping between blog posts and GitHub issues
   theme: github-dark # Utterances theme
   #label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+
+navbar-links:
+  Home: "https://blog.u9g.dev"
