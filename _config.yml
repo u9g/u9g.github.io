@@ -1,8 +1,13 @@
 # from https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+# from https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml
 
 remote_theme: jekyll/minima
+locale                   : "en-US"
 title: Passing Thoughts
+name: U9G Name
 author: U9G
+url                      : https://blog.u9g.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 social-network-links:
   email: "blog@u9g.dev"
