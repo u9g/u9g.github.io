@@ -1,6 +1,8 @@
+---
 layout: post
 title: "Fixing an off-by-one in GraphiQL"
 date: 2023-08-09 22:22:00 -0000
+---
 
 [The Pull Request](https://github.com/graphql/graphiql/pull/3397)
 
