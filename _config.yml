@@ -1,1 +1,18 @@
+# from https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+
 remote_theme: jekyll/minima
+title: Passing Thoughts
+author: U9G
+
+social-network-links:
+  email: "blog@u9g.dev"
+  rss: true
+  github: u9g
+
+post_search: true
+
+utterances:
+  repository: u9g/u9g.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  issue-term: title   # Mapping between blog posts and GitHub issues
+  theme: github-dark # Utterances theme
+  #label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
