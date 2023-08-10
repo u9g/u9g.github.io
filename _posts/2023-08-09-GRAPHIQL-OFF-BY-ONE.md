@@ -4,7 +4,7 @@ date: 2023-08-09 22:22:00 -0000
 
 [The Pull Request](https://github.com/graphql/graphiql/pull/3397)
 
-This pr causes console spam in our case for when we hover a comment on the first line. See https://github.com/obi1kenobi/trustfall/issues/285 for more context.
+This pr causes console spam in our case for when we hover a comment on the first line. See [https://github.com/obi1kenobi/trustfall/issues/285](https://github.com/obi1kenobi/trustfall/issues/285) for more context.
 
 What does this pr do?
 
